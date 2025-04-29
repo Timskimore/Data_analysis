@@ -49,6 +49,7 @@ pip install -r requirements.txt
 ## Usage
 ```plain text
 Run the code in Jupyter environment or with Visual Studio Code IDE
+```
 Or
 ```bash
 jupyter notebook tech_stock_prices.ipynb
