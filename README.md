@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 ```plain text
-Run the code in Jupyter environment or with Visual Studio Code IDE
+Run the code in Jupyter environment or with Visual Studio Code IDE Terminal
 ```
 Or
 ```bash
