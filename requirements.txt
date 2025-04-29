@@ -1,0 +1,5 @@
+pandas           # data ingestion & wrangling
+matplotlib       # plotting library 
+seaborn          # high-level statistical visualization 
+notebook         # Jupyter Notebook interface
+jupyterlab       # JupyterLab interface
